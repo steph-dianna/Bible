@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".PrincipalFragment">
+
+
+        <TextView
+            android:id="@+id/Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+            android:layout_marginEnd="80dp"
+            android:layout_marginTop="70dp"
+            android:text="Verset du Jour"
+            android:textColor="@color/black"
+            android:textSize="30sp" />
+
+
+
+        <TextView
+            android:id="@+id/Verset"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="45dp"
+            android:layout_marginEnd="30dp"
+            android:textColor="@color/black"
+            android:layout_below="@+id/Title"
+            android:textSize="30sp"
+            android:text="Jean 3" />
+
+        <TextView
+            android:id="@+id/TextVerset"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/Verset"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="70dp"
+            android:layout_marginEnd="30dp"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:text="jdfhhfkjfahdjfJDFHjfhyjfBVkjFGUDFB.BVJFVLKJSFV.V.MNZV.MVZHJKHGVBVLJVLFVBA" />
+
+
+
+
+
+
+</RelativeLayout>
