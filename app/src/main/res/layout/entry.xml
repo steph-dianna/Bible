@@ -2,13 +2,14 @@
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:layout_margin="5dp">
 
     <TextView
-        android:id="@+id/textView"
-        android:textSize="24sp"
-        android:textStyle="bold"
+        android:id="@+id/modele"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Text"/>
+        android:text="Text"
+        android:textSize="24sp"
+        android:textStyle="bold" />
 </LinearLayout>

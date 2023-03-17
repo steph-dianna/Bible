@@ -5,12 +5,13 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
-import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.annotation.SuppressLint;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.MenuItem;
+import android.view.View;
 import android.widget.Button;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
@@ -21,7 +22,8 @@ public class MainActivity2 extends AppCompatActivity {
     private BottomNavigationView bottom_navigation;
 
     RecyclerView rvLivres;
-    AdapterBoock adapter;
+    AdapterBook adapter;
+    Button bouton;
 
     @SuppressLint("WrongViewCast")
     @Override
@@ -33,17 +35,22 @@ public class MainActivity2 extends AppCompatActivity {
         setSupportActionBar(toolbar);
 
         rvLivres = findViewById(R.id.rvLivres);
-//        LinearLayoutManager layoutManager = new LinearLayoutManager(this);
-//        //Recycler view setup: layout manager and the adapter
-//        rvLivres.setLayoutManager(layoutManager);
-//        rvLivres.setAdapter(adapter);
 
-        final FragmentManager fragmentManager = getSupportFragmentManager();
+//        bouton = findViewById(R.id.button);
+//        bouton.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//                Intent i = new Intent(MainActivity2.this,Essai.class);
+//                startActivity(i);
+//            }
+//        });
 
+      final FragmentManager fragmentManager = getSupportFragmentManager();
+////
         // define your fragments here
-        final Fragment action_home = new PrincipalFragment();
-        final Fragment action_book = new BookFragment();
-        final Fragment action_more = new MoreFragment();
+        final Fragment action_home = new FrPrincipal();
+        final Fragment action_book = new FrBook();
+        final Fragment action_more = new FrMore();
 
         bottom_navigation = findViewById(R.id.bottom_navigation);
 

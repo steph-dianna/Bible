@@ -14,16 +14,11 @@
         android:theme="@style/Theme.Bible"
         tools:targetApi="31">
         <activity
-            android:name=".Exode"
+            android:name=".Essai"
             android:exported="false" />
         <activity
-            android:name=".Genese"
+            android:name=".Chapiter"
             android:exported="false" />
-        <activity
-            android:name=".MainActivity3"
-            android:exported="false"
-            android:label="@string/title_activity_main3"
-            android:theme="@style/Theme.Bible.NoActionBar" />
         <activity
             android:name=".MainActivity2"
             android:exported="false"
@@ -39,9 +34,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".MathieuChapter"
-            android:label="@string/mathieu" />
     </application>
 
 </manifest>
