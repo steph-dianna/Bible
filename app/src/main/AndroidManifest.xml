@@ -14,7 +14,7 @@
         android:theme="@style/Theme.Bible"
         tools:targetApi="31">
         <activity
-            android:name=".Essai"
+            android:name=".DetailBook"
             android:exported="false" />
         <activity
             android:name=".Chapiter"

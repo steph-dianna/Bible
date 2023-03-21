@@ -3,8 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".FrBook"
-    android:layout_margin="5dp">
+    tools:context=".FrBook">
 
     <!-- TODO: Update blank fragment layout -->
 
