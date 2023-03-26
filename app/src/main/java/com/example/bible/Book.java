@@ -7,12 +7,12 @@ import org.parceler.ParcelConstructor;
 public class Book {
 
     private String name;
-    private String chapitre;
+    private int chapitre;
     private String verset;
 
     public Book(){}
     @ParcelConstructor
-    public Book(String name, String chapitre){
+    public Book(String name, int chapitre){
             this.name = name;
             this.chapitre = chapitre;
             this.verset = verset;
@@ -22,7 +22,7 @@ public class Book {
         public String getName(){
             return name;
         }
-        public String getChapter(){
+        public int getChapter(){
             return chapitre;
         }
         public String getVerset(){
@@ -33,12 +33,13 @@ public class Book {
         this.name = name;
         }
 
-        public void setChapitre(String chapitre){
+        public void setChapitre(int chapitre){
         this.chapitre = chapitre;
         }
 
         public void setVerset(String verset){
         this.verset =verset;
         }
+
 
 }

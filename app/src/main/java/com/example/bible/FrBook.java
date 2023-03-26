@@ -14,7 +14,6 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-
 import org.parceler.Parcels;
 
 import java.io.BufferedReader;
@@ -54,12 +53,12 @@ public class FrBook extends Fragment {
 
         adapter = new AdapterBook(getContext(), Books);
 
-//        recyclerView.setAdapter(adapter);
+
 
         adapter.setOnItemClickListener(new AdapterBook.OnItemClickListener() {
             @Override
             public void onItemClick(View itemView, int position) {
-                Intent intent = new Intent(getContext(),Chapiter.class);
+                Intent intent = new Intent(getActivity(),Chapiter.class);
                 Book book = Books.get(position);
                 intent.putExtra("NameBooks.txt", Parcels.wrap(book));
 
@@ -80,7 +79,7 @@ public class FrBook extends Fragment {
     }
 
     private void bookItem() throws IOException {
-        AssetManager manager = getAssets();
+        AssetManager manager = getActivity().getAssets();
         InputStream inputStream = manager.open("NameBooks.txt");
         BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream));
 
@@ -90,7 +89,7 @@ public class FrBook extends Fragment {
             String nom = data[0].trim();
             String nbrChapitre = data[1].trim();
 
-            Book book = new Book(nom,nbrChapitre);
+            Book book = new Book(nom,Integer.parseInt(nbrChapitre));
             Books.add(book);
         }
         reader.close();

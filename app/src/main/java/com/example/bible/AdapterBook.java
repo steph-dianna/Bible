@@ -49,21 +49,23 @@ public class AdapterBook extends RecyclerView.Adapter<AdapterBook.ViewHolder> {
 
     @Override
     public int getItemCount() {
+
         return Books.size();
     }
 
     public class ViewHolder extends RecyclerView.ViewHolder {
         TextView textView;
-        public ViewHolder(View view, final OnItemClickListener listener) {
-            super(view);
-            textView = view.findViewById(R.id.modele);
-            
-            textView.setOnClickListener(new View.OnClickListener() {
+        public ViewHolder(View itemView, final OnItemClickListener listener) {
+            super(itemView);
+            textView = itemView.findViewById(R.id.modele);
+            // initialiser vos vues ici
+            itemView.setOnClickListener(new View.OnClickListener() {
                 @Override
-                public void onClick(View view) {
-                    OnItemClickListener clickListener = null;
-                    clickListener.onItemClick(view, getAdapterPosition());
-
+                public void onClick(View v) {
+                    // appeler la méthode onItemClick ici
+                    if (listener != null) {
+                        listener.onItemClick(v, getAdapterPosition());
+                    }
                 }
             });
         }
