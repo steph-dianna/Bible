@@ -10,7 +10,6 @@ import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
 import android.view.LayoutInflater;
-import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
@@ -45,7 +44,7 @@ public class FrMore extends Fragment {
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
 
-        textView = (TextView) view.findViewById(R.id.txtHelp);
+        textView =  view.findViewById(R.id.txtHelp);
         textView1 = view.findViewById(R.id.txtAbout);
 
         textView.setOnClickListener(new View.OnClickListener() {
@@ -64,14 +63,6 @@ public class FrMore extends Fragment {
                 startActivity(intent);
             }
         });
-
-//        textView.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-//                Intent intent = new Intent(getContext(),HelpActivity.class);
-//                startActivity(intent);
-//            }
-//        });
     }
 }
 
