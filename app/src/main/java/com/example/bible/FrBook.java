@@ -62,7 +62,7 @@ public class FrBook extends Fragment {
                 Book book = Books.get(position);
                 intent.putExtra("NameBooks.txt", Parcels.wrap(book));
 
-                FrBook.this.startActivity(intent);
+                startActivity(intent);
             }
         });
 

@@ -2,6 +2,7 @@ package com.example.bible;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
+import androidx.recyclerview.widget.RecyclerView;
 
 import android.content.res.AssetManager;
 import android.graphics.Color;
@@ -17,6 +18,7 @@ import java.io.InputStreamReader;
 public class HelpActivity extends AppCompatActivity {
 
     TextView mTextView;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -36,6 +38,7 @@ public class HelpActivity extends AppCompatActivity {
 //        getSupportActionBar().setDisplayShowHomeEnabled(true);
 
 
+
         mTextView = findViewById(R.id.text_view_id);
         try {
             lireFichier();
@@ -44,10 +47,10 @@ public class HelpActivity extends AppCompatActivity {
         }
 
 
-//        textView.setText("Nouveau texte à afficher");
+//        mTextView.setText("Nouveau texte à afficher");
 //
-//        textView.setTextColor(Color.RED);
-//        textView.setTextSize(20);
+//        mTextView.setTextColor(Color.RED);
+//        mTextView.setTextSize(20);
 
 
 
