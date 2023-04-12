@@ -40,12 +40,12 @@ public class Chapiter extends AppCompatActivity {
 
         ArrayList<Integer> bookChapter = new ArrayList<Integer>();
 
-        Book book = new Book();
+
 
             // faire quelque chose avec le nom du livre
         Book livres = Parcels.unwrap(getIntent().getParcelableExtra("livre"));
         TextView textView = findViewById(R.id.textView);
-        textView.setText(book.getName());
+        textView.setText(livres.getName());
 
 
 
@@ -53,17 +53,17 @@ public class Chapiter extends AppCompatActivity {
 //        // using toolbar as ActionBar
         //setSupportActionBar(toolbar);
 
-        // Display icon in the toolbar
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-        getSupportActionBar().setHomeAsUpIndicator(R.drawable.back);
-        getSupportActionBar().setDisplayShowHomeEnabled(true);
+//        // Display icon in the toolbar
+//        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+//        getSupportActionBar().setHomeAsUpIndicator(R.drawable.back);
+//        getSupportActionBar().setDisplayShowHomeEnabled(true);
 
 
-        for(int i = 1; book.getChapter() >= i; i++){
+        for(int i = 1; livres.getChapter() >= i; i++){
             bookChapter.add(i);
         }
 
-        AdapterChapter adapter = new AdapterChapter(this,bookArrayList);
+        AdapterChapter adapter = new AdapterChapter(this,bookChapter);
         gridView.setAdapter(adapter);
 
         gridView.setOnItemClickListener(new AdapterView.OnItemClickListener() {

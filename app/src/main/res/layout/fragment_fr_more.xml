@@ -16,16 +16,18 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="70dp"
         android:layout_weight="1"
-        android:textSize="20dp"
-        android:text="Help" />
+        android:textSize="26dp"
+        android:textStyle="bold"
+        android:text="About" />
 
     <TextView
         android:id="@+id/txtAbout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="20dp"
-        android:layout_marginTop="20dp"
+        android:textSize="26dp"
+        android:textStyle="bold"
+        android:layout_marginTop="40dp"
         android:layout_below="@id/txtHelp"
         android:layout_weight="1"
-        android:text="More" />
+        android:text="Help" />
 </RelativeLayout>

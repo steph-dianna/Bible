@@ -12,9 +12,9 @@ import androidx.annotation.Nullable;
 
 import java.util.ArrayList;
 
-public class AdapterChapter extends ArrayAdapter<Book> {
+public class AdapterChapter extends ArrayAdapter<Integer> {
 
-    public AdapterChapter(Context context, ArrayList<Book> bookArrayList){
+    public AdapterChapter(Context context, ArrayList<Integer> bookArrayList){
         super(context,0,bookArrayList);
     }
 
@@ -27,7 +27,7 @@ public class AdapterChapter extends ArrayAdapter<Book> {
             listitemView = LayoutInflater.from(getContext()).inflate(R.layout.entrychapter, parent, false);
         }
 
-        Book book = getItem(position);
+        Integer book = getItem(position);
         TextView tvItemChapitre = listitemView.findViewById(R.id.txtChapitre);
 
 

@@ -53,14 +53,12 @@ public class FrBook extends Fragment {
 
         adapter = new AdapterBook(getContext(), Books);
 
-
-
         adapter.setOnItemClickListener(new AdapterBook.OnItemClickListener() {
             @Override
             public void onItemClick(View itemView, int position) {
-                Intent intent = new Intent(getActivity(),Chapiter.class);
+                Intent intent = new Intent(getContext(),Chapiter.class);
                 Book book = Books.get(position);
-                intent.putExtra("NameBooks.txt", Parcels.wrap(book));
+                intent.putExtra("livre", Parcels.wrap(book));
 
                 startActivity(intent);
             }
