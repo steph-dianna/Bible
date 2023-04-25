@@ -1,0 +1,1025 @@
+{
+    
+    "verses": [
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 1,
+            "verse": 1,
+            "text": "\u00b6 Paroles d'Amos, l'un des bergers de Tekoa, visions qu'il eut sur Isra\u00ebl, au temps d'Ozias, roi de Juda, et au temps de J\u00e9roboam, fils de Joas, roi d'Isra\u00ebl, deux ans avant le tremblement de terre."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 1,
+            "verse": 2,
+            "text": "Il dit: De Sion l'Eternel rugit, De J\u00e9rusalem il fait entendre sa voix. Les p\u00e2turages des bergers sont dans le deuil, Et le sommet du Carmel est dess\u00e9ch\u00e9."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 1,
+            "verse": 3,
+            "text": "\u00b6 Ainsi parle l'Eternel: A cause de trois crimes de Damas, M\u00eame de quatre, je ne r\u00e9voque pas mon arr\u00eat, Parce qu'ils ont foul\u00e9 Galaad sous des tra\u00eeneaux de fer."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 1,
+            "verse": 4,
+            "text": "J'enverrai le feu dans la maison de Haza\u00ebl, Et il d\u00e9vorera les palais de Ben-Hadad."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 1,
+            "verse": 5,
+            "text": "Je briserai les verrous de Damas, J'exterminerai de Bikath-Aven les habitants, Et de Beth-Eden celui qui tient le sceptre; Et le peuple de Syrie sera men\u00e9 captif \u00e0 Kir, dit l'Eternel."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 1,
+            "verse": 6,
+            "text": "Ainsi parle l'Eternel: A cause de trois crimes de Gaza, M\u00eame de quatre, je ne r\u00e9voque pas mon arr\u00eat, Parce qu'ils ont fait une foule de captifs pour les livrer \u00e0 Edom."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 1,
+            "verse": 7,
+            "text": "J'enverrai le feu dans les murs de Gaza, Et il en d\u00e9vorera les palais."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 1,
+            "verse": 8,
+            "text": "J'exterminerai d'Asdod les habitants, Et d'Askalon celui qui tient le sceptre; Je tournerai ma main contre Ekron, Et le reste des Philistins p\u00e9rira, dit le Seigneur, l'Eternel."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 1,
+            "verse": 9,
+            "text": "Ainsi parle l'Eternel: A cause de trois crimes de Tyr, M\u00eame de quatre, je ne r\u00e9voque pas mon arr\u00eat, Parce qu'ils ont livr\u00e9 \u00e0 Edom une foule de captifs, Sans se souvenir de l'alliance fraternelle."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 1,
+            "verse": 10,
+            "text": "J'enverrai le feu dans les murs de Tyr, Et il en d\u00e9vorera les palais."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 1,
+            "verse": 11,
+            "text": "Ainsi parle l'Eternel: A cause de trois crimes d'Edom, M\u00eame de quatre, je ne r\u00e9voque pas mon arr\u00eat, Parce qu'il a poursuivi ses fr\u00e8res avec l'\u00e9p\u00e9e, En \u00e9touffant sa compassion, Parce que sa col\u00e8re d\u00e9chire toujours, Et qu'il garde \u00e9ternellement sa fureur."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 1,
+            "verse": 12,
+            "text": "J'enverrai le feu dans Th\u00e9man, Et il d\u00e9vorera les palais de Botsra."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 1,
+            "verse": 13,
+            "text": "Ainsi parle l'Eternel: A cause de trois crimes des enfants d'Ammon, M\u00eame de quatre, je ne r\u00e9voque pas mon arr\u00eat, Parce qu'ils ont fendu le ventre des femmes enceintes de Galaad, Afin d'agrandir leur territoire."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 1,
+            "verse": 14,
+            "text": "J'allumerai le feu dans les murs de Rabba, Et il en d\u00e9vorera les palais, Au milieu des cris de guerre au jour du combat, Au milieu de l'ouragan au jour de la temp\u00eate;"
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 1,
+            "verse": 15,
+            "text": "Et leur roi s'en ira en captivit\u00e9, Lui, et ses chefs avec lui, dit l'Eternel."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 2,
+            "verse": 1,
+            "text": "\u00b6 Ainsi parle l'Eternel: A cause de trois crimes de Moab, M\u00eame de quatre, je ne r\u00e9voque pas mon arr\u00eat, Parce qu'il a br\u00fbl\u00e9, calcin\u00e9 les os du roi d'Edom."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 2,
+            "verse": 2,
+            "text": "J'enverrai le feu dans Moab, Et il d\u00e9vorera les palais de Kerijoth; Et Moab p\u00e9rira au milieu du tumulte, Au milieu des cris de guerre et du bruit de la trompette."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 2,
+            "verse": 3,
+            "text": "J'exterminerai de son sein le juge, Et je tuerai tous ses chefs avec lui, dit l'Eternel."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 2,
+            "verse": 4,
+            "text": "Ainsi parle l'Eternel: A cause de trois crimes de Juda, M\u00eame de quatre, je ne r\u00e9voque pas mon arr\u00eat, Parce qu'ils ont m\u00e9pris\u00e9 la loi de l'Eternel Et qu'ils n'ont pas gard\u00e9 ses ordonnances, Parce qu'ils ont \u00e9t\u00e9 \u00e9gar\u00e9s par les idoles mensong\u00e8res Apr\u00e8s lesquelles leurs p\u00e8res ont march\u00e9."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 2,
+            "verse": 5,
+            "text": "J'enverrai le feu dans Juda, Et il d\u00e9vorera les palais de J\u00e9rusalem."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 2,
+            "verse": 6,
+            "text": "Ainsi parle l'Eternel: A cause de trois crimes d'Isra\u00ebl, M\u00eame de quatre, je ne r\u00e9voque pas mon arr\u00eat, Parce qu'ils ont vendu le juste pour de l'argent, Et le pauvre pour une paire de souliers."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 2,
+            "verse": 7,
+            "text": "Ils aspirent \u00e0 voir la poussi\u00e8re de la terre sur la t\u00eate des mis\u00e9rables, Et ils violent le droit des malheureux. Le fils et le p\u00e8re vont vers la m\u00eame fille, Afin de profaner mon saint nom."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 2,
+            "verse": 8,
+            "text": "Ils s'\u00e9tendent pr\u00e8s de chaque autel sur des v\u00eatements pris en gage, Et ils boivent dans la maison de leurs dieux le vin de ceux qu'ils condamnent."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 2,
+            "verse": 9,
+            "text": "\u00b6 Et pourtant j'ai d\u00e9truit devant eux les Amor\u00e9ens, Dont la hauteur \u00e9galait celle des c\u00e8dres, Et la force celle des ch\u00eanes; J'ai d\u00e9truit leurs fruits en haut, Et leurs racines en bas."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 2,
+            "verse": 10,
+            "text": "Et pourtant je vous ai fait monter du pays d'Egypte, Et je vous ai conduits quarante ans dans le d\u00e9sert, Pour vous mettre en possession du pays des Amor\u00e9ens."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 2,
+            "verse": 11,
+            "text": "J'ai suscit\u00e9 parmi vos fils des proph\u00e8tes, Et parmi vos jeunes hommes des nazar\u00e9ens. N'en est-il pas ainsi, enfants d'Isra\u00ebl? dit l'Eternel..."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 2,
+            "verse": 12,
+            "text": "Et vous avez fait boire du vin aux nazar\u00e9ens! Et aux proph\u00e8tes vous avez donn\u00e9 cet ordre: Ne proph\u00e9tisez pas!"
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 2,
+            "verse": 13,
+            "text": "Voici, je vous \u00e9craserai, Comme foule la terre un chariot charg\u00e9 de gerbes."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 2,
+            "verse": 14,
+            "text": "Celui qui est agile ne pourra fuir, Celui qui a de la force ne pourra s'en servir, Et l'homme vaillant ne sauvera pas sa vie;"
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 2,
+            "verse": 15,
+            "text": "Celui qui manie l'arc ne r\u00e9sistera pas, Celui qui a les pieds l\u00e9gers n'\u00e9chappera pas, Et le cavalier ne sauvera pas sa vie;"
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 2,
+            "verse": 16,
+            "text": "Le plus courageux des guerriers S'enfuira nu dans ce jour-l\u00e0, dit l'Eternel."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 3,
+            "verse": 1,
+            "text": "\u00b6 Ecoutez cette parole que l'Eternel prononce contre vous, enfants d'Isra\u00ebl, Contre toute la famille que j'ai fait monter du pays d'Egypte!"
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 3,
+            "verse": 2,
+            "text": "Je vous ai choisis, vous seuls parmi toutes les familles de la terre; C'est pourquoi je vous ch\u00e2tierai pour toutes vos iniquit\u00e9s."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 3,
+            "verse": 3,
+            "text": "Deux hommes marchent-ils ensemble, Sans en \u00eatre convenus?"
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 3,
+            "verse": 4,
+            "text": "Le lion rugit-il dans la for\u00eat, Sans avoir une proie? Le lionceau pousse-t-il des cris du fond de sa tani\u00e8re, Sans avoir fait une capture?"
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 3,
+            "verse": 5,
+            "text": "L'oiseau tombe-t-il dans le filet qui est \u00e0 terre, Sans qu'il y ait un pi\u00e8ge? Le filet s'\u00e9l\u00e8ve-t-il de terre, Sans qu'il y ait rien de pris?"
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 3,
+            "verse": 6,
+            "text": "Sonne-t-on de la trompette dans une ville, Sans que le peuple soit dans l'\u00e9pouvante? Arrive-t-il un malheur dans une ville, Sans que l'Eternel en soit l'auteur?"
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 3,
+            "verse": 7,
+            "text": "Car le Seigneur, l'Eternel, ne fait rien Sans avoir r\u00e9v\u00e9l\u00e9 son secret \u00e0 ses serviteurs les proph\u00e8tes."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 3,
+            "verse": 8,
+            "text": "Le lion rugit: qui ne serait effray\u00e9? Le Seigneur, l'Eternel, parle: qui ne proph\u00e9tiserait?"
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 3,
+            "verse": 9,
+            "text": "\u00b6 Faites retentir votre voix dans les palais d'Asdod Et dans les palais du pays d'Egypte, Et dites: Rassemblez-vous sur les montagnes de Samarie, Et voyez quelle immense confusion au milieu d'elle, Quelles violences dans son sein!"
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 3,
+            "verse": 10,
+            "text": "Ils ne savent pas agir avec droiture, dit l'Eternel, Ils entassent dans leurs palais les produits de la violence et de la rapine."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 3,
+            "verse": 11,
+            "text": "C'est pourquoi ainsi parle le Seigneur, l'Eternel: L'ennemi investira le pays, Il d\u00e9truira ta force, Et tes palais seront pill\u00e9s."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 3,
+            "verse": 12,
+            "text": "Ainsi parle l'Eternel: Comme le berger arrache de la gueule du lion Deux jambes ou un bout d'oreille, Ainsi se sauveront les enfants d'Isra\u00ebl qui sont assis dans Samarie A l'angle d'un lit et sur des tapis de damas."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 3,
+            "verse": 13,
+            "text": "Ecoutez, et d\u00e9clarez ceci \u00e0 la maison de Jacob! Dit le Seigneur, l'Eternel, le Dieu des arm\u00e9es."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 3,
+            "verse": 14,
+            "text": "Le jour o\u00f9 je punirai Isra\u00ebl pour ses transgressions, Je frapperai sur les autels de B\u00e9thel; Les cornes de l'autel seront bris\u00e9es, Et tomberont \u00e0 terre."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 3,
+            "verse": 15,
+            "text": "Je renverserai les maisons d'hiver et les maisons d'\u00e9t\u00e9; Les palais d'ivoire p\u00e9riront, Les maisons des grands dispara\u00eetront, dit l'Eternel."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 4,
+            "verse": 1,
+            "text": "\u00b6 Ecoutez cette parole, g\u00e9nisses de Basan qui \u00eates sur la montagne de Samarie, Vous qui opprimez les mis\u00e9rables, qui \u00e9crasez les indigents, Et qui dites \u00e0 vos maris: Apportez, et buvons!"
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 4,
+            "verse": 2,
+            "text": "Le Seigneur, l'Eternel, l'a jur\u00e9 par sa saintet\u00e9: Voici, les jours viendront pour vous O\u00f9 l'on vous enl\u00e8vera avec des crochets, Et votre post\u00e9rit\u00e9 avec des hame\u00e7ons;"
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 4,
+            "verse": 3,
+            "text": "Vous sortirez par les br\u00e8ches, chacune devant soi, Et vous serez jet\u00e9es dans la forteresse, dit l'Eternel."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 4,
+            "verse": 4,
+            "text": "Allez \u00e0 B\u00e9thel, et p\u00e9chez! Allez \u00e0 Guilgal, et p\u00e9chez davantage! Offrez vos sacrifices chaque matin, Et vos d\u00eemes tous les trois jours!"
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 4,
+            "verse": 5,
+            "text": "Faites vos sacrifices d'actions de gr\u00e2ces avec du levain! Proclamez, publiez vos offrandes volontaires! Car c'est l\u00e0 ce que vous aimez, enfants d'Isra\u00ebl, Dit le Seigneur, l'Eternel."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 4,
+            "verse": 6,
+            "text": "\u00b6 Et moi, je vous ai envoy\u00e9 la famine dans toutes vos villes, Le manque de pain dans toutes vos demeures. Malgr\u00e9 cela, vous n'\u00eates pas revenus \u00e0 moi, dit l'Eternel."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 4,
+            "verse": 7,
+            "text": "Et moi, je vous ai refus\u00e9 la pluie, Lorsqu'il y avait encore trois mois jusqu'\u00e0 la moisson; J'ai fait pleuvoir sur une ville, Et je n'ai pas fait pleuvoir sur une autre ville; Un champ a re\u00e7u la pluie, Et un autre qui ne l'a pas re\u00e7ue s'est dess\u00e9ch\u00e9."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 4,
+            "verse": 8,
+            "text": "Deux, trois villes sont all\u00e9es vers une autre pour boire de l'eau, Et elles n'ont point apais\u00e9 leur soif. Malgr\u00e9 cela, vous n'\u00eates pas revenus \u00e0 moi, dit l'Eternel."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 4,
+            "verse": 9,
+            "text": "Je vous ai frapp\u00e9s par la rouille et par la nielle; Vos nombreux jardins, vos vignes, vos figuiers et vos oliviers Ont \u00e9t\u00e9 d\u00e9vor\u00e9s par les sauterelles. Malgr\u00e9 cela, vous n'\u00eates pas revenus \u00e0 moi, dit l'Eternel."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 4,
+            "verse": 10,
+            "text": "J'ai envoy\u00e9 parmi vous la peste, comme en Egypte; J'ai tu\u00e9 vos jeunes gens par l'\u00e9p\u00e9e, Et laiss\u00e9 prendre vos chevaux; J'ai fait monter \u00e0 vos narines l'infection de votre camp. Malgr\u00e9 cela, vous n'\u00eates pas revenus \u00e0 moi, dit l'Eternel."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 4,
+            "verse": 11,
+            "text": "Je vous ai boulevers\u00e9s, Comme Sodome et Gomorrhe, que Dieu d\u00e9truisit; Et vous avez \u00e9t\u00e9 comme un tison arrach\u00e9 de l'incendie. Malgr\u00e9 cela, vous n'\u00eates pas revenus \u00e0 moi, dit l'Eternel..."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 4,
+            "verse": 12,
+            "text": "C'est pourquoi je te traiterai de la m\u00eame mani\u00e8re, Isra\u00ebl; Et puisque je te traiterai de la m\u00eame mani\u00e8re, Pr\u00e9pare-toi \u00e0 la rencontre de ton Dieu, O Isra\u00ebl!"
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 4,
+            "verse": 13,
+            "text": "Car voici celui qui a form\u00e9 les montagnes et cr\u00e9\u00e9 le vent, Et qui fait conna\u00eetre \u00e0 l'homme ses pens\u00e9es, Celui qui change l'aurore en t\u00e9n\u00e8bres, Et qui marche sur les hauteurs de la terre: Son nom est l'Eternel, le Dieu des arm\u00e9es."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 5,
+            "verse": 1,
+            "text": "\u00b6 Ecoutez cette parole, Cette complainte que je prononce sur vous, Maison d'Isra\u00ebl!"
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 5,
+            "verse": 2,
+            "text": "Elle est tomb\u00e9e, elle ne se rel\u00e8vera plus, La vierge d'Isra\u00ebl; Elle est couch\u00e9e par terre, Nul ne la rel\u00e8ve."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 5,
+            "verse": 3,
+            "text": "Car ainsi parle le Seigneur, l'Eternel: La ville qui mettait en campagne mille hommes N'en conservera que cent, Et celle qui mettait en campagne cent hommes N'en conservera que dix, pour la maison d'Isra\u00ebl."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 5,
+            "verse": 4,
+            "text": "\u00b6 Car ainsi parle l'Eternel \u00e0 la maison d'Isra\u00ebl: Cherchez-moi, et vous vivrez!"
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 5,
+            "verse": 5,
+            "text": "Ne cherchez pas B\u00e9thel, N'allez pas \u00e0 Guilgal, Ne passez pas \u00e0 Beer-Sch\u00e9ba. Car Guilgal sera captif, Et B\u00e9thel an\u00e9anti."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 5,
+            "verse": 6,
+            "text": "Cherchez l'Eternel, et vous vivrez! Craignez qu'il ne saisisse comme un feu la maison de Joseph, Et que ce feu ne la d\u00e9vore, sans personne \u00e0 B\u00e9thel pour l'\u00e9teindre,"
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 5,
+            "verse": 7,
+            "text": "O vous qui changez le droit en absinthe, Et qui foulez \u00e0 terre la justice!"
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 5,
+            "verse": 8,
+            "text": "Il a cr\u00e9\u00e9 les Pl\u00e9iades et l'Orion, Il change les t\u00e9n\u00e8bres en aurore, Il obscurcit le jour pour en faire la nuit, Il appelle les eaux de la mer, Et les r\u00e9pand \u00e0 la surface de la terre: L'Eternel est son nom."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 5,
+            "verse": 9,
+            "text": "Il fait lever la ruine sur les puissants, Et la ruine vient sur les forteresses."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 5,
+            "verse": 10,
+            "text": "Ils ha\u00efssent celui qui les reprend \u00e0 la porte, Et ils ont en horreur celui qui parle sinc\u00e8rement."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 5,
+            "verse": 11,
+            "text": "Aussi, parce que vous avez foul\u00e9 le mis\u00e9rable, Et que vous avez pris de lui du bl\u00e9 en pr\u00e9sent, Vous avez b\u00e2ti des maisons en pierres de taille, Mais vous ne les habiterez pas; Vous avez plant\u00e9 d'excellentes vignes, Mais vous n'en boirez pas le vin."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 5,
+            "verse": 12,
+            "text": "Car, je le sais, vos crimes sont nombreux, Vos p\u00e9ch\u00e9s se sont multipli\u00e9s; Vous opprimez le juste, vous recevez des pr\u00e9sents, Et vous violez \u00e0 la porte le droit des pauvres."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 5,
+            "verse": 13,
+            "text": "Voil\u00e0 pourquoi, en des temps comme ceux-ci, le sage se tait; Car ces temps sont mauvais."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 5,
+            "verse": 14,
+            "text": "Recherchez le bien et non le mal, afin que vous viviez, Et qu'ainsi l'Eternel, le Dieu des arm\u00e9es, soit avec vous, Comme vous le dites."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 5,
+            "verse": 15,
+            "text": "Ha\u00efssez le mal et aimez le bien, Faites r\u00e9gner \u00e0 la porte la justice; Et peut-\u00eatre l'Eternel, le Dieu des arm\u00e9es, aura piti\u00e9 Des restes de Joseph."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 5,
+            "verse": 16,
+            "text": "\u00b6 C'est pourquoi ainsi parle l'Eternel, le Dieu des arm\u00e9es, le Seigneur; Dans toutes les places on se lamentera, Dans toutes les rues on dira: H\u00e9las! h\u00e9las! On appellera le laboureur au deuil, Et aux lamentations ceux qui disent des complaintes."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 5,
+            "verse": 17,
+            "text": "Dans toutes les vignes on se lamentera, Lorsque je passerai au milieu de toi, dit l'Eternel."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 5,
+            "verse": 18,
+            "text": "Malheur \u00e0 ceux qui d\u00e9sirent le jour de l'Eternel! Qu'attendez-vous du jour de l'Eternel? Il sera t\u00e9n\u00e8bres et non lumi\u00e8re."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 5,
+            "verse": 19,
+            "text": "Vous serez comme un homme qui fuit devant un lion Et que rencontre un ours, Qui gagne sa demeure, appuie sa main sur la muraille, Et que mord un serpent."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 5,
+            "verse": 20,
+            "text": "Le jour de l'Eternel n'est-il pas t\u00e9n\u00e8bres et non lumi\u00e8re? N'est-il pas obscur et sans \u00e9clat?"
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 5,
+            "verse": 21,
+            "text": "\u00b6 Je hais, je m\u00e9prise vos f\u00eates, Je ne puis sentir vos assembl\u00e9es."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 5,
+            "verse": 22,
+            "text": "Quand vous me pr\u00e9sentez des holocaustes et des offrandes, Je n'y prends aucun plaisir; Et les veaux engraiss\u00e9s que vous sacrifiez en actions de gr\u00e2ces, Je ne les regarde pas."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 5,
+            "verse": 23,
+            "text": "Eloigne de moi le bruit de tes cantiques; Je n'\u00e9coute pas le son de tes luths."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 5,
+            "verse": 24,
+            "text": "Mais que la droiture soit comme un courant d'eau, Et la justice comme un torrent qui jamais ne tarit."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 5,
+            "verse": 25,
+            "text": "M'avez-vous fait des sacrifices et des offrandes Pendant les quarante ann\u00e9es du d\u00e9sert, maison d'Isra\u00ebl?..."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 5,
+            "verse": 26,
+            "text": "Emportez donc la tente de votre roi, Le pi\u00e9destal de vos idoles, L'\u00e9toile de votre Dieu Que vous vous \u00eates fabriqu\u00e9!"
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 5,
+            "verse": 27,
+            "text": "Et je vous emm\u00e8nerai captifs au del\u00e0 de Damas, Dit l'Eternel, dont le nom est le Dieu des arm\u00e9es."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 6,
+            "verse": 1,
+            "text": "\u00b6 Malheur \u00e0 ceux qui vivent tranquilles dans Sion, Et en s\u00e9curit\u00e9 sur la montagne de Samarie, A ces grands de la premi\u00e8re des nations, Aupr\u00e8s desquels va la maison d'Isra\u00ebl!..."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 6,
+            "verse": 2,
+            "text": "Passez \u00e0 Caln\u00e9 et voyez, Allez de l\u00e0 jusqu'\u00e0 Hamath la grande, Et descendez \u00e0 Gath chez les Philistins: Ces villes sont-elles plus prosp\u00e8res que vos deux royaumes, Et leur territoire est-il plus \u00e9tendu que le v\u00f4tre?..."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 6,
+            "verse": 3,
+            "text": "Vous croyez \u00e9loign\u00e9 le jour du malheur, Et vous faites approcher le r\u00e8gne de la violence."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 6,
+            "verse": 4,
+            "text": "Ils reposent sur des lits d'ivoire, Ils sont mollement \u00e9tendus sur leurs couches; Ils mangent les agneaux du troupeau, Les veaux mis \u00e0 l'engrais."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 6,
+            "verse": 5,
+            "text": "Ils extravaguent au son du luth, Ils se croient habiles comme David sur les instruments de musique."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 6,
+            "verse": 6,
+            "text": "Ils boivent le vin dans de larges coupes, Ils s'oignent avec la meilleure huile, Et ils ne s'attristent pas sur la ruine de Joseph!"
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 6,
+            "verse": 7,
+            "text": "C'est pourquoi ils seront emmen\u00e9s \u00e0 la t\u00eate des captifs; Et les cris de joie de ces voluptueux cesseront."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 6,
+            "verse": 8,
+            "text": "\u00b6 Le Seigneur, l'Eternel, l'a jur\u00e9 par lui-m\u00eame; L'Eternel, le Dieu des arm\u00e9es, a dit: J'ai en horreur l'orgueil de Jacob, Et je hais ses palais; Je livrerai la ville et tout ce qu'elle renferme."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 6,
+            "verse": 9,
+            "text": "Et s'il reste dix hommes dans une maison, ils mourront."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 6,
+            "verse": 10,
+            "text": "Lorsqu'un parent prendra un mort pour le br\u00fbler Et qu'il enl\u00e8vera de la maison les ossements, Il dira \u00e0 celui qui est au fond de la maison: Y a-t-il encore quelqu'un avec toi? Et cet homme r\u00e9pondra: Personne... Et l'autre dira: Silence! Ce n'est pas le moment de prononcer le nom de l'Eternel."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 6,
+            "verse": 11,
+            "text": "Car voici, l'Eternel ordonne: Il fera tomber en ruines la grande maison, Et en d\u00e9bris la petite maison."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 6,
+            "verse": 12,
+            "text": "Est-ce que les chevaux courent sur un rocher, Est-ce qu'on y laboure avec des boeufs, Pour que vous ayez chang\u00e9 la droiture en poison, Et le fruit de la justice en absinthe?"
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 6,
+            "verse": 13,
+            "text": "Vous vous r\u00e9jouissez de ce qui n'est que n\u00e9ant, Vous dites: N'est-ce pas par notre force Que nous avons acquis de la puissance?"
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 6,
+            "verse": 14,
+            "text": "C'est pourquoi voici, je ferai lever contre vous, maison d'Isra\u00ebl, Dit l'Eternel, le Dieu des arm\u00e9es, une nation Qui vous opprimera depuis l'entr\u00e9e de Hamath Jusqu'au torrent du d\u00e9sert."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 7,
+            "verse": 1,
+            "text": "\u00b6 Le Seigneur, l'Eternel, m'envoya cette vision. Voici, il formait des sauterelles, Au moment o\u00f9 le regain commen\u00e7ait \u00e0 cro\u00eetre; C'\u00e9tait le regain apr\u00e8s la coupe du roi."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 7,
+            "verse": 2,
+            "text": "Et comme elles d\u00e9voraient enti\u00e8rement l'herbe de la terre, Je dis: Seigneur Eternel, pardonne donc! Comment Jacob subsistera-t-il? Car il est si faible!"
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 7,
+            "verse": 3,
+            "text": "L'Eternel se repentit de cela. Cela n'arrivera pas, dit l'Eternel."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 7,
+            "verse": 4,
+            "text": "Le Seigneur, l'Eternel, m'envoya cette vision. Voici, le Seigneur, l'Eternel, proclamait le ch\u00e2timent par le feu; Et le feu d\u00e9vorait le grand ab\u00eeme Et d\u00e9vorait le champ."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 7,
+            "verse": 5,
+            "text": "Je dis: Seigneur Eternel, arr\u00eate donc! Comment Jacob subsistera-t-il? Car il est si faible!"
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 7,
+            "verse": 6,
+            "text": "L'Eternel se repentit de cela. Cela non plus n'arrivera pas, dit le Seigneur, l'Eternel."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 7,
+            "verse": 7,
+            "text": "Il m'envoya cette vision. Voici, le Seigneur se tenait sur un mur tir\u00e9 au cordeau, Et il avait un niveau dans la main."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 7,
+            "verse": 8,
+            "text": "L'Eternel me dit: Que vois-tu, Amos? Je r\u00e9pondis: Un niveau. Et le Seigneur dit: Je mettrai le niveau au milieu de mon peuple d'Isra\u00ebl, Je ne lui pardonnerai plus;"
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 7,
+            "verse": 9,
+            "text": "Les hauts lieux d'Isaac seront ravag\u00e9s; Les sanctuaires d'Isra\u00ebl seront d\u00e9truits, Et je me l\u00e8verai contre la maison de J\u00e9roboam avec l'\u00e9p\u00e9e."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 7,
+            "verse": 10,
+            "text": "\u00b6 Alors Amatsia, pr\u00eatre de B\u00e9thel, fit dire \u00e0 J\u00e9roboam, roi d'Isra\u00ebl: Amos conspire contre toi au milieu de la maison d'Isra\u00ebl; le pays ne peut supporter toutes ses paroles."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 7,
+            "verse": 11,
+            "text": "Car voici ce que dit Amos: J\u00e9roboam mourra par l'\u00e9p\u00e9e, et Isra\u00ebl sera emmen\u00e9 captif loin de son pays."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 7,
+            "verse": 12,
+            "text": "Et Amatsia dit \u00e0 Amos: Homme \u00e0 visions, va-t-en, fuis dans le pays de Juda; manges-y ton pain, et l\u00e0 tu proph\u00e9tiseras."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 7,
+            "verse": 13,
+            "text": "Mais ne continue pas \u00e0 proph\u00e9tiser \u00e0 B\u00e9thel, car c'est un sanctuaire du roi, et c'est une maison royale."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 7,
+            "verse": 14,
+            "text": "Amos r\u00e9pondit \u00e0 Amatsia: Je ne suis ni proph\u00e8te, ni fils de proph\u00e8te; mais je suis berger, et je cultive des sycomores."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 7,
+            "verse": 15,
+            "text": "L'Eternel m'a pris derri\u00e8re le troupeau, et l'Eternel m'a dit: Va, proph\u00e9tise \u00e0 mon peuple d'Isra\u00ebl."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 7,
+            "verse": 16,
+            "text": "Ecoute maintenant la parole de l'Eternel, toi qui dis: Ne proph\u00e9tise pas contre Isra\u00ebl, et ne parle pas contre la maison d'Isaac."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 7,
+            "verse": 17,
+            "text": "A cause de cela, voici ce que dit l'Eternel: Ta femme se prostituera dans la ville, tes fils et tes filles tomberont par l'\u00e9p\u00e9e, ton champ sera partag\u00e9 au cordeau; et toi, tu mourras sur une terre impure, et Isra\u00ebl sera emmen\u00e9 captif loin de son pays."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 8,
+            "verse": 1,
+            "text": "\u00b6 Le Seigneur, l'Eternel, m'envoya cette vision. Voici, c'\u00e9tait une corbeille de fruits."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 8,
+            "verse": 2,
+            "text": "Il dit: Que vois-tu, Amos? Je r\u00e9pondis: Une corbeille de fruits. Et l'Eternel me dit: La fin est venue pour mon peuple d'Isra\u00ebl; Je ne lui pardonnerai plus."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 8,
+            "verse": 3,
+            "text": "En ce jour-l\u00e0, les chants du palais seront des g\u00e9missements, Dit le Seigneur, l'Eternel; On jettera partout en silence une multitude de cadavres."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 8,
+            "verse": 4,
+            "text": "\u00b6 Ecoutez ceci, vous qui d\u00e9vorez l'indigent, Et qui ruinez les malheureux du pays!"
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 8,
+            "verse": 5,
+            "text": "Vous dites: Quand la nouvelle lune sera-t-elle pass\u00e9e, Afin que nous vendions du bl\u00e9? Quand finira le sabbat, afin que nous ouvrions les greniers? Nous diminuerons l'\u00e9pha, nous augmenterons le prix, Nous falsifierons les balances pour tromper;"
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 8,
+            "verse": 6,
+            "text": "Puis nous ach\u00e8terons les mis\u00e9rables pour de l'argent, Et le pauvre pour une paire de souliers, Et nous vendrons la criblure du froment."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 8,
+            "verse": 7,
+            "text": "L'Eternel l'a jur\u00e9 par la gloire de Jacob: Je n'oublierai jamais aucune de leurs oeuvres."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 8,
+            "verse": 8,
+            "text": "Le pays, \u00e0 cause d'elles, ne sera-t-il pas \u00e9branl\u00e9, Et tous ses habitants ne seront-ils pas dans le deuil? Le pays montera tout entier comme le fleuve, Il se soul\u00e8vera et s'affaissera comme le fleuve d'Egypte."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 8,
+            "verse": 9,
+            "text": "En ce jour-l\u00e0, dit le Seigneur, l'Eternel, Je ferai coucher le soleil \u00e0 midi, Et j'obscurcirai la terre en plein jour;"
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 8,
+            "verse": 10,
+            "text": "Je changerai vos f\u00eates en deuil, Et tous vos chants en lamentations, Je couvrirai de sacs tous les reins, Et je rendrai chauves toutes les t\u00eates; Je mettrai le pays dans le deuil comme pour un fils unique, Et sa fin sera comme un jour d'amertume."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 8,
+            "verse": 11,
+            "text": "\u00b6 Voici, les jours viennent, dit le Seigneur, l'Eternel, O\u00f9 j'enverrai la famine dans le pays, Non pas la disette du pain et la soif de l'eau, Mais la faim et la soif d'entendre les paroles de l'Eternel."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 8,
+            "verse": 12,
+            "text": "Ils seront alors errants d'une mer \u00e0 l'autre, Du septentrion \u00e0 l'orient, Ils iront \u00e7\u00e0 et l\u00e0 pour chercher la parole de l'Eternel, Et ils ne la trouveront pas."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 8,
+            "verse": 13,
+            "text": "En ce jour, les belles jeunes filles et les jeunes hommes mourront de soif."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 8,
+            "verse": 14,
+            "text": "Ils jurent par le p\u00e9ch\u00e9 de Samarie, Et ils disent: Vive ton Dieu, Dan! Vive la voie de Beer-Sch\u00e9ba! Mais ils tomberont, et ne se rel\u00e8veront plus."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 9,
+            "verse": 1,
+            "text": "\u00b6 Je vis le Seigneur qui se tenait sur l'autel. Et il dit: Frappe les chapiteaux et que les seuils s'\u00e9branlent, Et brise-les sur leurs t\u00eates \u00e0 tous! Je ferai p\u00e9rir le reste par l'\u00e9p\u00e9e. Aucun d'eux ne pourra se sauver en fuyant, Aucun d'eux n'\u00e9chappera."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 9,
+            "verse": 2,
+            "text": "S'ils p\u00e9n\u00e8trent dans le s\u00e9jour des morts, Ma main les en arrachera; S'ils montent aux cieux, Je les en ferai descendre."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 9,
+            "verse": 3,
+            "text": "S'ils se cachent au sommet du Carmel, Je les y chercherai et je les saisirai; S'ils se d\u00e9robent \u00e0 mes regards dans le fond de la mer, L\u00e0 j'ordonnerai au serpent de les mordre."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 9,
+            "verse": 4,
+            "text": "S'ils vont en captivit\u00e9 devant leurs ennemis, L\u00e0 j'ordonnerai \u00e0 l'\u00e9p\u00e9e de les faire p\u00e9rir; Je dirigerai contre eux mes regards Pour faire du mal et non du bien."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 9,
+            "verse": 5,
+            "text": "Le Seigneur, l'Eternel des arm\u00e9es, touche la terre, et elle tremble, Et tous ses habitants sont dans le deuil; Elle monte tout enti\u00e8re comme le fleuve, Et elle s'affaisse comme le fleuve d'Egypte."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 9,
+            "verse": 6,
+            "text": "Il a b\u00e2ti sa demeure dans les cieux, Et fond\u00e9 sa vo\u00fbte sur la terre; Il appelle les eaux de la mer, Et les r\u00e9pand \u00e0 la surface de la terre: L'Eternel est son nom."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 9,
+            "verse": 7,
+            "text": "N'\u00eates-vous pas pour moi comme les enfants des Ethiopiens, Enfants d'Isra\u00ebl? dit l'Eternel. N'ai-je pas fait sortir Isra\u00ebl du pays d'Egypte, Comme les Philistins de Caphtor et les Syriens de Kir?"
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 9,
+            "verse": 8,
+            "text": "Voici, le Seigneur, l'Eternel, a les yeux sur le royaume coupable. Je le d\u00e9truirai de dessus la face de la terre; Toutefois je ne d\u00e9truirai pas enti\u00e8rement la maison de Jacob, Dit l'Eternel."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 9,
+            "verse": 9,
+            "text": "Car voici, je donnerai mes ordres, Et je secouerai la maison d'Isra\u00ebl parmi toutes les nations, Comme on secoue avec le crible, Sans qu'il tombe \u00e0 terre un seul grain."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 9,
+            "verse": 10,
+            "text": "Tous les p\u00e9cheurs de mon peuple mourront par l'\u00e9p\u00e9e, Ceux qui disent: Le malheur n'approchera pas, ne nous atteindra pas."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 9,
+            "verse": 11,
+            "text": "\u00b6 En ce temps-l\u00e0, je rel\u00e8verai de sa chute la maison de David, J'en r\u00e9parerai les br\u00e8ches, j'en redresserai les ruines, Et je la reb\u00e2tirai comme elle \u00e9tait autrefois,"
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 9,
+            "verse": 12,
+            "text": "Afin qu'ils poss\u00e8dent le reste d'Edom et toutes les nations Sur lesquelles mon nom a \u00e9t\u00e9 invoqu\u00e9, Dit l'Eternel, qui accomplira ces choses."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 9,
+            "verse": 13,
+            "text": "Voici, les jours viennent, dit l'Eternel, O\u00f9 le laboureur suivra de pr\u00e8s le moissonneur, Et celui qui foule le raisin celui qui r\u00e9pand la semence, O\u00f9 le mo\u00fbt ruissellera des montagnes Et coulera de toutes les collines."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 9,
+            "verse": 14,
+            "text": "Je ram\u00e8nerai les captifs de mon peuple d'Isra\u00ebl; Ils reb\u00e2tiront les villes d\u00e9vast\u00e9es et les habiteront, Ils planteront des vignes et en boiront le vin, Ils \u00e9tabliront des jardins et en mangeront les fruits."
+        },
+        {
+            "book_name": "Amos",
+            "book": 30,
+            "chapter": 9,
+            "verse": 15,
+            "text": "Je les planterai dans leur pays, Et ils ne seront plus arrach\u00e9s du pays que je leur ai donn\u00e9, Dit L'Eternel, ton Dieu."
+        }]}

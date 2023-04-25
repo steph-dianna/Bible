@@ -14,6 +14,10 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
 import org.parceler.Parcels;
 
 import java.io.BufferedReader;
@@ -70,9 +74,12 @@ public class FrBook extends Fragment {
         recyclerView.setAdapter(adapter);
         try {
             bookItem();
+            texte();
         }catch (IOException e){
             e.printStackTrace();
         }
+
+
 
     }
 
@@ -86,11 +93,54 @@ public class FrBook extends Fragment {
             String[] data = line.split(":");
             String nom = data[0].trim();
             String nbrChapitre = data[1].trim();
+//            String nbrVerset = data[2].trim();
 
             Book book = new Book(nom,Integer.parseInt(nbrChapitre));
             Books.add(book);
         }
         reader.close();
+//
+//        InputStream inputStream = getAssets().open("segond_1910.json");
+//        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(inputStream, "UTF-8"));
+//
+//        StringBuilder stringBuilder = new StringBuilder();
+//        String ligne;
+//        while ((ligne = bufferedReader.readLine()) != null) {
+//            stringBuilder.append(ligne);
+//        }
+//        String contenuFichierJson = stringBuilder.toString();
+//
+//        try{
+//        JSONObject objetJson = new JSONObject(contenuFichierJson);
+//
+//        JSONArray tableauPersonnes = objetJson.getJSONArray("personnes");
+//        for (int i = 0; i < tableauPersonnes.length(); i++) {
+//            JSONObject objetPersonne = tableauPersonnes.getJSONObject(i);
+//            String nom = objetPersonne.getString("nom");
+//            int age = objetPersonne.getInt("age");
+//            boolean estMarie = objetPersonne.getBoolean("estMarie");
+//            // Faites quelque chose avec les propriétés de l'objet personne
+//        }}catch (JSONException e) {
+//            e.printStackTrace();
+//        }
+//
+    }
+
+    private void texte() throws IOException {
+        try {
+        InputStream inputStream = getAssets().open("segond_1910.json");
+        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(inputStream));
+        StringBuilder stringBuilder = new StringBuilder();
+        String line;
+        while ((line = bufferedReader.readLine()) != null) {
+            stringBuilder.append(line);
+        }
+        String json = stringBuilder.toString();
+
+            JSONObject jsonObject = new JSONObject(json);
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
     }
 
     private AssetManager getAssets() {

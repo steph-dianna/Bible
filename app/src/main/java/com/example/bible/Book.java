@@ -8,14 +8,14 @@ public class Book {
 
     private String name;
     private int chapitre;
-    private String verset;
+    private int verset;
 
     public Book(){}
     @ParcelConstructor
     public Book(String name, int chapitre){
             this.name = name;
             this.chapitre = chapitre;
-            this.verset = verset;
+           // this.verset = verset;
 
         }
 
@@ -25,7 +25,7 @@ public class Book {
         public int getChapter(){
             return chapitre;
         }
-        public String getVerset(){
+        public int getVerset(){
             return verset;
         }
 
@@ -37,7 +37,7 @@ public class Book {
         this.chapitre = chapitre;
         }
 
-        public void setVerset(String verset){
+        public void setVerset(int verset){
         this.verset =verset;
         }
 

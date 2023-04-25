@@ -14,17 +14,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
 
-    <ProgressBar
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
-        android:layout_marginTop="55dp"
-        android:id="@+id/pb"
-        android:visibility="invisible"/>
-
-    <com.github.barteksc.pdfviewer.PDFView
-        android:id="@+id/pdfView"
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/longText"
+        android:layout_below="@+id/toolbar"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
+
 
 </RelativeLayout>

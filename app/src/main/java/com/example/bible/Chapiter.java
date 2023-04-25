@@ -24,7 +24,7 @@ public class Chapiter extends AppCompatActivity {
 
     @Override
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {
-        Intent intent = new Intent(Chapiter.this,DetailBook.class);
+        Intent intent = new Intent(Chapiter.this,Verset.class);
         intent.setFlags(Intent.FLAG_ACTIVITY_REORDER_TO_FRONT);
         startActivityIfNeeded(intent,0);
         return true;
@@ -69,7 +69,7 @@ public class Chapiter extends AppCompatActivity {
         gridView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-                Intent intent = new Intent(Chapiter.this, DetailBook.class);
+                Intent intent = new Intent(Chapiter.this, Verset.class);
                 intent.putExtra("chapitre", String.valueOf(bookChapter.get(i)));
                 intent.putExtra("livre", Parcels.wrap(livres));
                 startActivity(intent);

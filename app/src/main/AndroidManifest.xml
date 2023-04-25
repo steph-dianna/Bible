@@ -17,6 +17,9 @@
         android:theme="@style/Theme.Bible"
         tools:targetApi="31">
         <activity
+            android:name=".Verset"
+            android:exported="false" />
+        <activity
             android:name=".AboutActivity"
             android:exported="false" />
         <activity

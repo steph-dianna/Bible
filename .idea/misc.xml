@@ -4,13 +4,17 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Dianna/Bible/app/src/main/res/layout/activity_chapiter.xml" value="0.1" />
+        <entry key="..\:/Users/Dianna/Bible/app/src/main/res/layout/activity_detail.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Dianna/Bible/app/src/main/res/layout/activity_detail_book.xml" value="0.1" />
         <entry key="..\:/Users/Dianna/Bible/app/src/main/res/layout/activity_essai.xml" value="0.146875" />
         <entry key="..\:/Users/Dianna/Bible/app/src/main/res/layout/activity_genese.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Dianna/Bible/app/src/main/res/layout/activity_help.xml" value="0.18" />
         <entry key="..\:/Users/Dianna/Bible/app/src/main/res/layout/activity_main2.xml" value="0.146875" />
+        <entry key="..\:/Users/Dianna/Bible/app/src/main/res/layout/activity_verset.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Dianna/Bible/app/src/main/res/layout/entry.xml" value="0.1" />
         <entry key="..\:/Users/Dianna/Bible/app/src/main/res/layout/entry_help.xml" value="0.203125" />
+        <entry key="..\:/Users/Dianna/Bible/app/src/main/res/layout/entry_text.xml" value="0.33" />
+        <entry key="..\:/Users/Dianna/Bible/app/src/main/res/layout/entry_verse.xml" value="0.22" />
         <entry key="..\:/Users/Dianna/Bible/app/src/main/res/layout/entrychapter.xml" value="0.22" />
         <entry key="..\:/Users/Dianna/Bible/app/src/main/res/layout/fragment_book.xml" value="0.17552083333333332" />
         <entry key="..\:/Users/Dianna/Bible/app/src/main/res/layout/fragment_fr_boock.xml" value="0.1" />
