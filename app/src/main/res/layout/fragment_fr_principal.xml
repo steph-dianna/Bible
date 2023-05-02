@@ -19,31 +19,29 @@
         android:textColor="@color/black"
         android:textSize="30sp" />
 
-
-
     <TextView
-        android:id="@+id/Verset"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:id="@+id/tvVerset"
         android:layout_marginStart="30dp"
-        android:layout_marginTop="45dp"
+        android:layout_marginTop="5dp"
         android:layout_marginEnd="30dp"
-        android:textColor="@color/black"
         android:layout_below="@+id/Title"
-        android:textSize="30sp"
-        android:text="Jean 3" />
+        android:textColor="@color/black"
+        android:text="Jn 3:16"/>
+
 
     <TextView
-        android:id="@+id/TextVerset"
+        android:id="@+id/tvText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@id/Verset"
         android:layout_marginStart="30dp"
-        android:layout_marginTop="70dp"
+        android:layout_marginTop="5dp"
         android:layout_marginEnd="30dp"
-        android:textSize="20sp"
         android:textColor="@color/black"
-        android:text="jdfhhfkjfahdjfJDFHjfhyjfBVkjFGUDFB.BVJFVLKJSFV.V.MNZV.MVZHJKHGVBVLJVLFVBA" />
+        android:layout_below="@+id/tvVerset"
+        android:textSize="30sp"
+        android:text="La maison est b" />
 
 
 
