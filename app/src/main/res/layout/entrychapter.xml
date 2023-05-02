@@ -5,17 +5,17 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="80dp"
     android:layout_height="80dp"
-    app:cardCornerRadius="500dp"
     app:cardElevation="5dp"
-    android:layout_margin="10dp">
+    android:layout_margin="10dp"
+    >
 
     <TextView
         android:id="@+id/txtChapitre"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_gravity="center"
-        android:background="@color/cardview_shadow_end_color"
         android:text="Button"
+        android:background="@color/white"
         android:textAlignment="center"
         android:textColor="@color/black"
         android:textSize="30sp"

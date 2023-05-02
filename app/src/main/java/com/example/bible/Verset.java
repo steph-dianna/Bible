@@ -6,8 +6,10 @@ import androidx.appcompat.widget.Toolbar;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
@@ -23,6 +25,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Locale;
 
 public class Verset extends AppCompatActivity {
     private RecyclerView recyclerView;
@@ -36,10 +39,17 @@ public class Verset extends AppCompatActivity {
         recyclerView = findViewById(R.id.recyclerview);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
 
+        Book livres = Parcels.unwrap(getIntent().getParcelableExtra("livre"));
+        int chapitre = getIntent().getExtras().getInt("chapitre");
+
+
+
         // Read JSON file from assets folder
         String json = null;
+        String livre =livres.getName().toLowerCase().replace("é","e").replace("ë","e").replace("è","e").replace("ï","i").replace(" ","");
+
         try {
-            InputStream is = getAssets().open("texteBiblique/genesis.json");
+            InputStream is = getAssets().open(String.format("texteBiblique/%s.json",livre));
             int size = is.available();
             byte[] buffer = new byte[size];
             is.read(buffer);
@@ -51,23 +61,30 @@ public class Verset extends AppCompatActivity {
 
         // Parse JSON data into Verse objects
         List<Verse> verses = new ArrayList<>();
+        Log.i("verset",livre);
         try {
 
             JSONObject jsonObject = new JSONObject(json);
             JSONArray jsonArray = jsonObject.getJSONArray("verses");
+
             for (int i = 0; i < jsonArray.length(); i++) {
                 JSONObject verseObject = jsonArray.getJSONObject(i);
+                if (verseObject.getInt("chapter")== chapitre){
                 Verse verse = new Verse();
                 verse.setText(verseObject.getString("text"));
                 verse.setVerse(verseObject.getInt("verse"));
-                verses.add(verse);
+                verses.add(verse);}
+
             }
+//            Log.i("verset",verses.toString());
         } catch (JSONException e) {
             e.printStackTrace();
         }
 
         // Bind VerseAdapter to RecyclerView
-        verseAdapter = new VerseAdapter(verses);
+        verseAdapter = new VerseAdapter(this,verses);
+        LinearLayoutManager layoutManager = new LinearLayoutManager(this);
+        recyclerView.setLayoutManager(layoutManager);
         recyclerView.setAdapter(verseAdapter);
     }
 }

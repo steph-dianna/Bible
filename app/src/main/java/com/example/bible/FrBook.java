@@ -93,37 +93,12 @@ public class FrBook extends Fragment {
             String[] data = line.split(":");
             String nom = data[0].trim();
             String nbrChapitre = data[1].trim();
-//            String nbrVerset = data[2].trim();
 
             Book book = new Book(nom,Integer.parseInt(nbrChapitre));
             Books.add(book);
         }
         reader.close();
-//
-//        InputStream inputStream = getAssets().open("segond_1910.json");
-//        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(inputStream, "UTF-8"));
-//
-//        StringBuilder stringBuilder = new StringBuilder();
-//        String ligne;
-//        while ((ligne = bufferedReader.readLine()) != null) {
-//            stringBuilder.append(ligne);
-//        }
-//        String contenuFichierJson = stringBuilder.toString();
-//
-//        try{
-//        JSONObject objetJson = new JSONObject(contenuFichierJson);
-//
-//        JSONArray tableauPersonnes = objetJson.getJSONArray("personnes");
-//        for (int i = 0; i < tableauPersonnes.length(); i++) {
-//            JSONObject objetPersonne = tableauPersonnes.getJSONObject(i);
-//            String nom = objetPersonne.getString("nom");
-//            int age = objetPersonne.getInt("age");
-//            boolean estMarie = objetPersonne.getBoolean("estMarie");
-//            // Faites quelque chose avec les propriétés de l'objet personne
-//        }}catch (JSONException e) {
-//            e.printStackTrace();
-//        }
-//
+
     }
 
     private void texte() throws IOException {

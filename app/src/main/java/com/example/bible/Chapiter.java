@@ -70,7 +70,7 @@ public class Chapiter extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                 Intent intent = new Intent(Chapiter.this, Verset.class);
-                intent.putExtra("chapitre", String.valueOf(bookChapter.get(i)));
+                intent.putExtra("chapitre", bookChapter.get(i));
                 intent.putExtra("livre", Parcels.wrap(livres));
                 startActivity(intent);
             }
