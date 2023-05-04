@@ -9,25 +9,31 @@
 
     <!-- TODO: Update blank fragment layout -->
 
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
 
     <TextView
         android:id="@+id/txtHelp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_below="@+id/toolbar"
         android:layout_marginTop="70dp"
-        android:layout_weight="1"
-        android:textSize="26dp"
+        android:textSize="30sp"
+        android:textColor="@color/black"
         android:textStyle="bold"
-        android:text="About" />
+        android:text="About"  />
 
     <TextView
         android:id="@+id/txtAbout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="26dp"
-        android:textStyle="bold"
-        android:layout_marginTop="40dp"
         android:layout_below="@id/txtHelp"
-        android:layout_weight="1"
-        android:text="Help" />
+        android:layout_marginTop="50dp"
+        android:text="Help"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:textStyle="bold" />
 </RelativeLayout>

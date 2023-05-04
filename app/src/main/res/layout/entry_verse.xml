@@ -9,7 +9,7 @@
         android:id="@+id/item_verse"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="22sp"
+        android:textSize="20sp"
         android:textColor="@color/black"
         android:background="@color/cardview_shadow_end_color"
         android:text="Verse" />
