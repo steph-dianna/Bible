@@ -13,8 +13,8 @@
         android:layout_height="match_parent">
 
         <TextView
-            android:id="@+id/text_view_id"
-            android:textStyle="bold"
+            android:id="@+id/id_text_view"
+            android:textColor="@color/black"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="20sp"

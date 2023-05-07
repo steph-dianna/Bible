@@ -17,7 +17,7 @@ import java.io.InputStreamReader;
 
 public class HelpActivity extends AppCompatActivity {
 
-    TextView mTextView;
+    TextView mTextView1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -25,42 +25,19 @@ public class HelpActivity extends AppCompatActivity {
         setContentView(R.layout.activity_help);
 
 
-//        // assigning ID of the toolbar to a variable
-        Toolbar toolbar = findViewById(R.id.toolbar);
 
-        // using toolbar as ActionBar
-       //setSupportActionBar(toolbar);
-//
-//
-//        // Display icon in the toolbar
-//        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-//        getSupportActionBar().setHomeAsUpIndicator(R.drawable.back);
-//        getSupportActionBar().setDisplayShowHomeEnabled(true);
-
-
-
-        mTextView = findViewById(R.id.text_view_id);
+        mTextView1 = findViewById(R.id.id_text_view);
         try {
             lireFichier();
         }catch (IOException e){
             e.printStackTrace();
         }
 
-
-//        mTextView.setText("Nouveau texte à afficher");
-//
-//        mTextView.setTextColor(Color.RED);
-//        mTextView.setTextSize(20);
-
-
-
-
-
     }
 
     private void lireFichier() throws IOException {
         AssetManager assetManager = getAssets();
-        InputStream inputStream = assetManager.open("About.txt");
+        InputStream inputStream = assetManager.open("help.txt");
         BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream));
         StringBuilder stringBuilder = new StringBuilder();
         String line;
@@ -69,7 +46,7 @@ public class HelpActivity extends AppCompatActivity {
             stringBuilder.append(line);
             stringBuilder.append("\n");
 
-            mTextView.setText(stringBuilder);
+            mTextView1.setText(stringBuilder);
         }
 
 
