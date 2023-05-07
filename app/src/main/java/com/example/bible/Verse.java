@@ -13,13 +13,7 @@ public class Verse {
         this.text = text;
     }
 
-//    public int getChapter() {
-//        return chapter;
-//    }
-//
-//    public void setChapter(int chapter) {
-//        this.chapter = chapter;
-//    }
+
 
     public int getVerse() {
         return verse;

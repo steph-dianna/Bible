@@ -1,8 +1,9 @@
 package com.example.bible;
 
+import androidx.appcompat.widget.Toolbar;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.widget.Toolbar;
+
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -38,6 +39,8 @@ public class Chapiter extends AppCompatActivity {
         Toolbar toolbar = findViewById(R.id.toolbar);
         gridView = findViewById(R.id.grid);
 
+
+
         ArrayList<Integer> bookChapter = new ArrayList<Integer>();
 
 
@@ -46,18 +49,6 @@ public class Chapiter extends AppCompatActivity {
         Book livres = Parcels.unwrap(getIntent().getParcelableExtra("livre"));
         TextView textView = findViewById(R.id.textView);
         textView.setText(livres.getName());
-
-
-
-//
-//        // using toolbar as ActionBar
-        //setSupportActionBar(toolbar);
-
-//        // Display icon in the toolbar
-//        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-//        getSupportActionBar().setHomeAsUpIndicator(R.drawable.back);
-//        getSupportActionBar().setDisplayShowHomeEnabled(true);
-
 
         for(int i = 1; livres.getChapter() >= i; i++){
             bookChapter.add(i);

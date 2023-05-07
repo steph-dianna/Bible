@@ -1,20 +1,13 @@
 package com.example.bible;
 
-import androidx.annotation.NonNull;
+
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.widget.Toolbar;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import android.content.Context;
-import android.content.Intent;
+
 import android.os.Bundle;
 import android.util.Log;
-import android.view.MenuItem;
-import android.view.View;
-import android.widget.AdapterView;
-import android.widget.GridView;
-import android.widget.TextView;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -25,7 +18,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Locale;
+
 
 public class Verset extends AppCompatActivity {
     private RecyclerView recyclerView;
@@ -46,7 +39,11 @@ public class Verset extends AppCompatActivity {
 
         // Read JSON file from assets folder
         String json = null;
-        String livre =livres.getName().toLowerCase().replace("é","e").replace("ë","e").replace("è","e").replace("ï","i").replace(" ","");
+        String livre =livres.getName().toLowerCase().replace("-","").replace("é","e")
+                .replace("ë","e").replace(" ","").replace("è","e")
+                .replace("ï","i").replace("ô","o");
+
+        Log.i("verset",livre);
 
         try {
             InputStream is = getAssets().open(String.format("texteBiblique/%s.json",livre));
@@ -61,7 +58,7 @@ public class Verset extends AppCompatActivity {
 
         // Parse JSON data into Verse objects
         List<Verse> verses = new ArrayList<>();
-        Log.i("verset",livre);
+
         try {
 
             JSONObject jsonObject = new JSONObject(json);
@@ -76,7 +73,6 @@ public class Verset extends AppCompatActivity {
                 verses.add(verse);}
 
             }
-//            Log.i("verset",verses.toString());
         } catch (JSONException e) {
             e.printStackTrace();
         }
