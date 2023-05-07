@@ -1,0 +1,23 @@
+#  *La Bible*
+
+
+**L'application biblique est une application android destinée à aider les utilisateurs à explorer et à étudier la Bible. 
+Elle fournit un accès facile aux Écritures saintes, avec des fonctionnalités supplémentaires pour faciliter la lecture, 
+la recherche et la compréhension des textes bibliques.
+
+
+Cette application permet au utilisateur de :
+- [x] Lire  un chapitre.
+- [x] Naviguer dans différents écrans grâce à une barre de navigation.
+- [x] Choisir un livre de l’ancien ou du nouveau testament à l’aide d’une liste fournie.
+- [x] Donner un verset chaque jour sous forme de notification.
+- [x] Voir l'icône de l'application sur l'écran d'accueil.
+
+
+## Presentation de l'application en video
+
+
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
