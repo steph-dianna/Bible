@@ -9,17 +9,11 @@
 
     <!-- TODO: Update blank fragment layout -->
 
-    <include
-        android:id="@+id/toolbar"
-        layout="@layout/toolbar"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
 
     <TextView
         android:id="@+id/txtHelp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/toolbar"
         android:layout_marginTop="70dp"
         android:textSize="30sp"
         android:textColor="@color/black"
