@@ -7,7 +7,7 @@ la recherche et la compréhension des textes bibliques.
 
 
 Cette application permet au utilisateur de :
-- [x] Lire  un chapitre.
+- [x] Lire ou ecouter un chapitre.
 - [x] Naviguer dans différents écrans grâce à une barre de navigation.
 - [x] Choisir un livre de l’ancien ou du nouveau testament à l’aide d’une liste fournie.
 - [x] Donner un verset chaque jour sous forme de notification.
