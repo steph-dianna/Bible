@@ -16,8 +16,7 @@ Cette application permet au utilisateur de :
 
 ## Presentation de l'application en video
 
+<img src='bible.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF creer avec XRecorder..
 
