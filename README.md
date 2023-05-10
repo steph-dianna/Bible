@@ -17,8 +17,9 @@ Cette application permet au utilisateur de :
 
 ## Presentation de l'application en video
 
-<img src='bible.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ![bible](https://github.com/steph-dianna/Bible/assets/108767600/9c1ba936-7ccd-44a0-a550-cd0c4f4ef7df)
+
+<img src='bible.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF creer avec XRecorder..
 
