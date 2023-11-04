@@ -17,7 +17,7 @@ Cette application permet au utilisateur de :
 
 ## Presentation de l'application en video
 
-![bible](https://github.com/steph-dianna/Bible/assets/108767600/9c1ba936-7ccd-44a0-a550-cd0c4f4ef7df)
+
 
 
 GIF creer avec XRecorder..
