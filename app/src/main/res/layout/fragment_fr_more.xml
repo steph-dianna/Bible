@@ -18,7 +18,8 @@
         android:textSize="30sp"
         android:textColor="@color/black"
         android:textStyle="bold"
-        android:text="About"  />
+        android:text="Aide"
+      />
 
     <TextView
         android:id="@+id/txtAbout"
@@ -26,7 +27,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/txtHelp"
         android:layout_marginTop="50dp"
-        android:text="Help"
+        android:text="A Propos"
         android:textColor="@color/black"
         android:textSize="30sp"
         android:textStyle="bold" />

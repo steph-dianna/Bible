@@ -5,19 +5,19 @@
         android:id="@+id/action_home"
         android:enabled="true"
         android:icon="@drawable/home"
-        android:title="Home"
+        android:title="Accueil"
         app:showAsAction="ifRoom" />
     <item
         android:id="@+id/action_book"
         android:enabled="true"
         android:icon="@drawable/book"
-        android:title="Book"
+        android:title="Livres"
         app:showAsAction="ifRoom" />
     <item
         android:id="@+id/action_more"
         android:enabled="true"
         android:icon="@drawable/more"
-        android:title="More"
+        android:title="En savoir plus"
         app:showAsAction="ifRoom" />
 
 </menu>

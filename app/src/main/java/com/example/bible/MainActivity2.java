@@ -36,17 +36,8 @@ public class MainActivity2 extends AppCompatActivity {
 
         rvLivres = findViewById(R.id.rvLivres);
 
-//        bouton = findViewById(R.id.button);
-//        bouton.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-//                Intent i = new Intent(MainActivity2.this,Essai.class);
-//                startActivity(i);
-//            }
-//        });
-
       final FragmentManager fragmentManager = getSupportFragmentManager();
-////
+
         // define your fragments here
         final Fragment action_home = new FrPrincipal();
         final Fragment action_book = new FrBook();
